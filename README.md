@@ -1,16 +1,17 @@
-## Hi there 👋
+## Myself in few numbers 🙋🏻‍♂
 
-<!--
-**AleLuppi/AleLuppi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Static Badge](https://img.shields.io/badge/Vue_enthusiast-3_years-red?style=flat&logo=vue.js) _+ TypeScript_
 
-Here are some ideas to get you started:
+![Static Badge](https://img.shields.io/badge/🚗_Automotive_engineering-6_years-blue?style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Static Badge](https://img.shields.io/badge/Python_for_AI-7_years-yellow?style=flat&logo=python)
+
+![Static Badge](https://img.shields.io/badge/🚀_Startupper-9_years-green?style=flat) _with a lot of failed, but rewarding, projects_
+
+![Static Badge](https://img.shields.io/badge/❤️_Happily_in_love-11_years-red?style=flat)
+
+![Static Badge](https://img.shields.io/badge/💻_SW_developer-13_years-blue?style=flat) _since my first **if-else**_ 🥲
+
+![Static Badge](https://img.shields.io/badge/🤖_Engineering_path-22_years-yellow?style=flat) _yes, I was 6 when I decided I'd become an engineer_
+
+![Static Badge](https://img.shields.io/badge/👶🏻_Me-28_years-green?style=flat)
