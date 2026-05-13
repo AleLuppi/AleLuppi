@@ -1,6 +1,6 @@
 ## Myself in few numbers 🙋🏻‍♂
 
-![Static Badge](https://img.shields.io/badge/🏃🏻‍♂️_Runner-2_year-green?style=flat)
+![Static Badge](https://img.shields.io/badge/🏃🏻‍♂️_Runner-2_years-green?style=flat)
 
 ![Static Badge](https://img.shields.io/badge/Vue_enthusiast-5_years-red?style=flat&logo=vue.js) _+ TypeScript_
 
